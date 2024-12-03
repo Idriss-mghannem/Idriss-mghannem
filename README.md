@@ -1,7 +1,7 @@
  library management system
 Est une application logicielle qui permet de gérer efficacement les opérations d'un bibliothèque. Ce système facilite le suivi des livres, la gestion des adhérents, et la supervision des transactions comme l'emprunt et le retour de livre. 
 MOTS CLES : JAVA, JUNIT, MYSQL(DATA BASE). 
--l'utilisateur peut :
+####-l'utilisateur peut :
 1)ajouter un adhérent a la base de données
 Avec méthode ajout_adherent() 
 2)supprimé un adhérent. 
