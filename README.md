@@ -12,3 +12,5 @@ Library Management System est une application logicielle qui permet de gérer ef
 6) Ajouter un retour avec la méthode `ajout_retour()`.
 
 Si un livre est ajouté à la liste des emprunts, il sera automatiquement supprimé de la liste des retours et vice versa.
+
+
